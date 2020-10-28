@@ -1,0 +1,7 @@
+github.com/forkner/greeter1 v0.0.0-20201028184518-085557213084 h1:sBRh98YdudYhlTnieuuaRbzNGxsJnBOgBDT36ic3hHk=
+github.com/forkner/greeter1 v0.0.0-20201028184518-085557213084/go.mod h1:EWejGurX1XZMKOFntzHI9QPecPH6/8SjKQnUjXXsL8g=
+github.com/forkner/greeter2 v0.0.0-20201028184908-a827f7e73c18 h1:lOyljXZjS+gkdKD+QogiwgUJaVYHHyLGr6EnrKT0VyU=
+github.com/forkner/greeter2 v0.0.0-20201028184908-a827f7e73c18/go.mod h1:VvBsdc5UZeOA7UR1WwCtlZOZS2Ddou6mVJKZvIKCg04=
+github.com/forkner/greetings v0.0.0-20201028184106-8ac493a6575a/go.mod h1:e+tgWdc80BMuTJRaeHgHKpqiTHu0fIhXmAgMtUle1jw=
+github.com/forkner/greetings v0.0.0-20201028184654-c2499f999001 h1:KfL76hZVMCIRjkwtu8K+Oyu8a6FZO5OKvQ84uSLMaAM=
+github.com/forkner/greetings v0.0.0-20201028184654-c2499f999001/go.mod h1:e+tgWdc80BMuTJRaeHgHKpqiTHu0fIhXmAgMtUle1jw=
